@@ -1,3 +1,4 @@
 #!/bin/sh
 
-echo "Hello World!"
+echo "Hello $1!"
+echo "How are you doing today?"
